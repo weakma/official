@@ -1,0 +1,10 @@
+index:
+  path: /
+  methods: ['GET']
+  controller: App\Controller\Backend\DefaultController::index
+
+ckupload:
+  path: /ckupload
+  methods: [POST]
+  controller: App\Controller\Backend\DefaultController:ckUploadAction
+

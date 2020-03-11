@@ -6,7 +6,6 @@
 /.env.*.local
 /public
 /var/
-/config
 /src
 /templates
 /tests
