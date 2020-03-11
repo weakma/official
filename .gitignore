@@ -1,0 +1,27 @@
+
+###> symfony/framework-bundle ###
+/.env
+/bin
+/.env.test
+/.env.*.local
+/public
+/var/
+/config
+/src
+/templates
+/tests
+/translations
+/.idea
+/symfony.lock
+/phpunit.xml.dist
+
+###< symfony/framework-bundle ###
+
+###> symfony/phpunit-bridge ###
+.phpunit
+/phpunit.xml
+###< symfony/phpunit-bridge ###
+
+###> symfony/web-server-bundle ###
+/.web-server-pid
+###< symfony/web-server-bundle ###
